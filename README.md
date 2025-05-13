@@ -1,7 +1,7 @@
 ![Cabecera grado](pics/cabeceraSalud.png)
 
 <h1 style="display:flex;align-items:center;font-size:3.2em;margin:0;">
-  <img src="pics/logo.png" alt="Logo DiloConPics" width="65" style="margin-left:12px;">
+  <img src="pics/logo.png" alt="Logo DiloConPics" width="80" style="margin-left:12px;">
   DiloConPics
 </h1>
 
