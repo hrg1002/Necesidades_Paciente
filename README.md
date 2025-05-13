@@ -44,8 +44,21 @@ Se desarrolló una aplicación web interactiva llamada **DiloConPics** empleando
 * Arquitectura extensible: basta añadir nuevas imágenes *.png* en `datos/` y listarlas en el código para ampliar vocabulario.
 
 ### Estructura:
+```
+├─ pics/ #contiene imagenes propias del repositorio 
+├─ README.txt
+├─ requirements.txt
+└─ Necesidades/
+  ├─ datos/ #contiene las imagenes que componen los pictogramas
+  ├─ App_necesidades.py
+  ├─ DiloConPics.py #version completa con auth, TTS y navegación
+  ├─ logo.png
+  └─ pic.jpg
+```
 
 ### Uso APP online:
+> Aclaración:
+> La app modo online puede usarse principalmente en dispositivos Android o en ordenadores que usen navegadores propios de Google. Se ha observado fallos en el audio en dispositivos iOS.
 
 https://diloconpics-cu2qu7ezczh42dhunmwwtr.streamlit.app/
 
