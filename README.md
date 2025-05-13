@@ -58,7 +58,7 @@ Se desarrolló una aplicación web interactiva llamada **DiloConPics** empleando
 
 ### Uso APP online:
 > Aclaración:
-> La app modo online puede usarse principalmente en dispositivos Android o en ordenadores que usen navegadores propios de Google. Se ha observado fallos en el audio en dispositivos iOS.
+> La app modo online puede usarse principalmente en dispositivos Android o en ordenadores que usen navegadores propios de Google. Se han observado fallos en el audio en dispositivos iOS.
 
 https://diloconpics-cu2qu7ezczh42dhunmwwtr.streamlit.app/
 
