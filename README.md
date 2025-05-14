@@ -27,10 +27,10 @@ En el **Supuesto 4** se presenta el caso de una niña de cinco años con SPW, cu
 
 ## Objetivos
 
-* **Favorecer la expresión de necesidades y emociones** de la paciente, reduciendo la frustración y los conflictos derivados de la 
-* **Facilitar la comprensión** por parte de tutores, compañeros y familiares, mejorando la participación en el aula y en el hogar   
-* **Promover la integración social** y prolongar al máximo la autonomía de la niña mediante una herramienta accesible y motivadora 
-* Ofrecer una **plataforma extensible** que permita añadir fácilmente nuevo vocabulario y adaptarse a la evolución lingüística de la usuaria  
+* **Favorecer la expresión de necesidades y emociones** de la paciente, reduciendo la frustración y los conflictos derivados de la niña.
+* **Facilitar la comprensión** por parte de tutores, compañeros y familiares, mejorando la participación en el aula y en el hogar.
+* **Promover la integración social** y prolongar al máximo la autonomía de la niña mediante una herramienta accesible y motivadora.
+* Ofrecer una **plataforma extensible** que permita añadir fácilmente nuevo vocabulario y adaptarse a la evolución lingüística de la usuaria.
 ---
 
 ## Métodos 
