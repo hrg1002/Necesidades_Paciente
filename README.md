@@ -13,6 +13,7 @@
 - Nisrine Fariss Lamine
 - Carmen Ruiz Alonso
 - Antonia Añazco Guenkova
+- Claudia Valentín Alguacil
 ---
 
 ## Introducción  
