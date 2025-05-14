@@ -80,7 +80,7 @@ pip install -r requirements.txt
 # 4. Lanzar la app
 streamlit run DiloConPics.py
 ```
-## Conlusió
+## Conlusión
 
 En conclusión, este trabajo final de la asignatura Necesidades del Paciente culmina con el desarrollo de **DiloConPics**, una app en ```Python``` + ```Streamlit``` pensada para facilitar la comunicación de la niña con SPW en su entorno familiar y escolar mediante pictogramas y síntesis de voz. Con ella esperamos reducir la frustración, fomentar su autonomía y mejorar la comprensión mutua en situaciones cotidianas.
 
