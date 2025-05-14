@@ -1,0 +1,16 @@
+"""
+Ejecución de la aplicación en modo local
+Descargar la carpeta Necesidades y abrirla en un entorno de desarrollo Python (en este caso se ha utilizado Visual Studio Code).
+
+Acceder al archivo DiloConPics.py.
+
+Ejecutar el siguiente comando en la terminal:
+"""
+ 
+streamlit run DiloConPics.py
+
+"""
+Es posible que sea necesario instalar algunas bibliotecas requeridas. Puedes hacerlo utilizando:
+"""
+
+pip install -r requirements.txt
